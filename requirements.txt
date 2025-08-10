@@ -13,3 +13,4 @@ pytest-cov
 httpx
 # At the end of the file, or with the other pydantic libraries
 pydantic-settings
+redis
