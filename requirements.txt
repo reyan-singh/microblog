@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncmy]
+alembic
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+jinja2
+redis
+pytest
+pytest-cov
+httpx
+# At the end of the file, or with the other pydantic libraries
+pydantic-settings
